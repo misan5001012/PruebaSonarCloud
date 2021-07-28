@@ -1,0 +1,15 @@
+E:\Comdata\Laboratorios Dev\WinFormsApp1DescargarDocURL\bin\Debug\netcoreapp3.1\WinFormsApp1DescargarDocURL.exe
+E:\Comdata\Laboratorios Dev\WinFormsApp1DescargarDocURL\bin\Debug\netcoreapp3.1\WinFormsApp1DescargarDocURL.deps.json
+E:\Comdata\Laboratorios Dev\WinFormsApp1DescargarDocURL\bin\Debug\netcoreapp3.1\WinFormsApp1DescargarDocURL.runtimeconfig.json
+E:\Comdata\Laboratorios Dev\WinFormsApp1DescargarDocURL\bin\Debug\netcoreapp3.1\WinFormsApp1DescargarDocURL.runtimeconfig.dev.json
+E:\Comdata\Laboratorios Dev\WinFormsApp1DescargarDocURL\bin\Debug\netcoreapp3.1\WinFormsApp1DescargarDocURL.dll
+E:\Comdata\Laboratorios Dev\WinFormsApp1DescargarDocURL\bin\Debug\netcoreapp3.1\WinFormsApp1DescargarDocURL.pdb
+E:\Comdata\Laboratorios Dev\WinFormsApp1DescargarDocURL\obj\Debug\netcoreapp3.1\WinFormsApp1DescargarDocURL.csprojAssemblyReference.cache
+E:\Comdata\Laboratorios Dev\WinFormsApp1DescargarDocURL\obj\Debug\netcoreapp3.1\WinFormsApp1DescargarDocURL.Form1.resources
+E:\Comdata\Laboratorios Dev\WinFormsApp1DescargarDocURL\obj\Debug\netcoreapp3.1\WinFormsApp1DescargarDocURL.csproj.GenerateResource.cache
+E:\Comdata\Laboratorios Dev\WinFormsApp1DescargarDocURL\obj\Debug\netcoreapp3.1\WinFormsApp1DescargarDocURL.AssemblyInfoInputs.cache
+E:\Comdata\Laboratorios Dev\WinFormsApp1DescargarDocURL\obj\Debug\netcoreapp3.1\WinFormsApp1DescargarDocURL.AssemblyInfo.cs
+E:\Comdata\Laboratorios Dev\WinFormsApp1DescargarDocURL\obj\Debug\netcoreapp3.1\WinFormsApp1DescargarDocURL.csproj.CoreCompileInputs.cache
+E:\Comdata\Laboratorios Dev\WinFormsApp1DescargarDocURL\obj\Debug\netcoreapp3.1\WinFormsApp1DescargarDocURL.dll
+E:\Comdata\Laboratorios Dev\WinFormsApp1DescargarDocURL\obj\Debug\netcoreapp3.1\WinFormsApp1DescargarDocURL.pdb
+E:\Comdata\Laboratorios Dev\WinFormsApp1DescargarDocURL\obj\Debug\netcoreapp3.1\WinFormsApp1DescargarDocURL.genruntimeconfig.cache
