@@ -42,6 +42,31 @@ namespace WinFormsApp1DescargarDocURL
                     throw new ArgumentNullException("La dirección URL del documento es nula o se encuentra en blanco.");
                 }// Fin del if que valida que la URL no esté en blanco.
 
+                // Se valida que la URL no esté en blanco.
+                if (String.IsNullOrEmpty(strURLFile))
+                {
+                    // Se retorna un mensaje de error al usuario.
+                    throw new ArgumentNullException("La dirección URL del documento es nula o se encuentra en blanco.");
+                }// Fin del if
+                // Se valida que la URL no esté en blanco.
+                if (String.IsNullOrEmpty(strURLFile))
+                {
+                    // Se retorna un mensaje de error al usuario.
+                    throw new ArgumentNullException("La dirección URL del documento es nula o se encuentra en blanco.");
+                }// Fin del if
+                // Se valida que la URL no esté en blanco.
+                if (String.IsNullOrEmpty(strURLFile))
+                {
+                    // Se retorna un mensaje de error al usuario.
+                    throw new ArgumentNullException("La dirección URL del documento es nula o se encuentra en blanco.");
+                }// Fin del if
+                // Se valida que la URL no esté en blanco.
+                if (String.IsNullOrEmpty(strURLFile))
+                {
+                    // Se retorna un mensaje de error al usuario.
+                    throw new ArgumentNullException("La dirección URL del documento es nula o se encuentra en blanco.");
+                }// Fin del if
+
                 // Se valida que la ruta física no esté en blanco.
                 if (String.IsNullOrEmpty(strPathToSave))
                 {

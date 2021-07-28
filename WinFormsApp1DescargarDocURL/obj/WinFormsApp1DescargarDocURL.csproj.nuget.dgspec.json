@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Comdata\\Laboratorios Dev\\WinFormsApp1DescargarDocURL\\WinFormsApp1DescargarDocURL.csproj": {}
+    "E:\\Comdata\\FuentesLaboratorio\\PruebaSonarCloud\\WinFormsApp1DescargarDocURL\\WinFormsApp1DescargarDocURL.csproj": {}
   },
   "projects": {
-    "E:\\Comdata\\Laboratorios Dev\\WinFormsApp1DescargarDocURL\\WinFormsApp1DescargarDocURL.csproj": {
+    "E:\\Comdata\\FuentesLaboratorio\\PruebaSonarCloud\\WinFormsApp1DescargarDocURL\\WinFormsApp1DescargarDocURL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Comdata\\Laboratorios Dev\\WinFormsApp1DescargarDocURL\\WinFormsApp1DescargarDocURL.csproj",
+        "projectUniqueName": "E:\\Comdata\\FuentesLaboratorio\\PruebaSonarCloud\\WinFormsApp1DescargarDocURL\\WinFormsApp1DescargarDocURL.csproj",
         "projectName": "WinFormsApp1DescargarDocURL",
-        "projectPath": "E:\\Comdata\\Laboratorios Dev\\WinFormsApp1DescargarDocURL\\WinFormsApp1DescargarDocURL.csproj",
+        "projectPath": "E:\\Comdata\\FuentesLaboratorio\\PruebaSonarCloud\\WinFormsApp1DescargarDocURL\\WinFormsApp1DescargarDocURL.csproj",
         "packagesPath": "C:\\Users\\msand01\\.nuget\\packages\\",
-        "outputPath": "E:\\Comdata\\Laboratorios Dev\\WinFormsApp1DescargarDocURL\\obj\\",
+        "outputPath": "E:\\Comdata\\FuentesLaboratorio\\PruebaSonarCloud\\WinFormsApp1DescargarDocURL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
